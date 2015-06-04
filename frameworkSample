@@ -5,7 +5,7 @@ function A {
 }
 
 
-function Hi {
+function print_text {
     print "Hi!";
 
 function is_password_match(p1, p2) {
